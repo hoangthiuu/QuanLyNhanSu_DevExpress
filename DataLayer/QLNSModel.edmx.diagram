@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="979433b7854a42148bb4b94eb5687aa8" Name="Diagram1">
+        <EntityTypeShape EntityType="QLNS1Model.BAOHIEM" Width="1.5" PointX="5.25" PointY="3.5" />
+        <EntityTypeShape EntityType="QLNS1Model.CHUCVU" Width="1.5" PointX="0.75" PointY="5.25" />
+        <EntityTypeShape EntityType="QLNS1Model.CONGTAC" Width="1.5" PointX="5.25" PointY="13.75" />
+        <EntityTypeShape EntityType="QLNS1Model.DANTOC" Width="1.5" PointX="0.75" PointY="8.875" />
+        <EntityTypeShape EntityType="QLNS1Model.HOPDONG" Width="1.5" PointX="5.25" PointY="6.625" />
+        <EntityTypeShape EntityType="QLNS1Model.KHENTHUONGKYLUAT" Width="1.5" PointX="5.25" PointY="16.75" />
+        <EntityTypeShape EntityType="QLNS1Model.LUONG" Width="1.5" PointX="6" PointY="10.875" />
+        <EntityTypeShape EntityType="QLNS1Model.NHANVIEN" Width="1.5" PointX="3" PointY="6.875" />
+        <EntityTypeShape EntityType="QLNS1Model.NHANVIEN_LUONG" Width="1.5" PointX="8.25" PointY="8.25" />
+        <EntityTypeShape EntityType="QLNS1Model.PHONGBAN" Width="1.5" PointX="0.75" PointY="16.5" />
+        <EntityTypeShape EntityType="QLNS1Model.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="QLNS1Model.TONGIAO" Width="1.5" PointX="0.75" PointY="14.125" />
+        <EntityTypeShape EntityType="QLNS1Model.TRINHDO" Width="1.5" PointX="0.75" PointY="11.75" />
+        <EntityTypeShape EntityType="QLNS1Model.USER" Width="1.5" PointX="2.75" PointY="0.75" />
+        <AssociationConnector Association="QLNS1Model.FK_BAOHIEM_NHANVIEN" />
+        <AssociationConnector Association="QLNS1Model.FK_NHANVIEN_CHUCVU" />
+        <AssociationConnector Association="QLNS1Model.FK_CONGTAC_NHANVIEN" />
+        <AssociationConnector Association="QLNS1Model.FK_NHANVIEN_DANTOC" />
+        <AssociationConnector Association="QLNS1Model.FK_HOPDONG_NHANVIEN" />
+        <AssociationConnector Association="QLNS1Model.FK_KHENTHUONGKYLUAT_NHANVIEN" />
+        <AssociationConnector Association="QLNS1Model.FK_NHANVIEN_LUONG_LUONG" />
+        <AssociationConnector Association="QLNS1Model.FK_NHANVIEN_LUONG_NHANVIEN" />
+        <AssociationConnector Association="QLNS1Model.FK_NHANVIEN_PHONGBAN" />
+        <AssociationConnector Association="QLNS1Model.FK_NHANVIEN_TONGIAO" />
+        <AssociationConnector Association="QLNS1Model.FK_NHANVIEN_TRINHDO" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

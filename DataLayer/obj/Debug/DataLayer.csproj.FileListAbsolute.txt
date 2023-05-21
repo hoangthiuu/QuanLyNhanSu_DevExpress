@@ -1,0 +1,12 @@
+C:\Users\Admin\Downloads\HTU (update)\HTU\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Admin\Downloads\HTU (update)\HTU\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Admin\Downloads\HTU (update)\HTU\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Admin\Downloads\HTU (update)\HTU\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\HTU (update)\HTU\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\HTU (update)\HTU\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\HTU (update)\HTU\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\HTU (update)\HTU\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\HTU (update)\HTU\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\HTU (update)\HTU\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Admin\Downloads\HTU (update)\HTU\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Admin\Downloads\HTU (update)\HTU\DataLayer\obj\Debug\DataLayer.pdb

@@ -1,0 +1,17 @@
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\bin\Debug\BCrypt.Net.dll
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\bin\Debug\BCrypt.Net.xml
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Admin\Downloads\HTU (update)\HTU\BusinessLayer\obj\Debug\BusinessLayer.pdb
